@@ -11,7 +11,7 @@
 ## Installation
 ### Clone
 ```
-$ git clone https://github.com/tatasfachrul/simple-REST
+$ git clone https://github.com/sluxz3r/week2-task1
 $ cd simple-REST
 $ npm install
 ```
